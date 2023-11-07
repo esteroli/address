@@ -1,0 +1,9 @@
+.data_form {
+    font-size: 1.2em;
+}
+
+.data_form input {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid rgb(138, 70, 70);
+}
